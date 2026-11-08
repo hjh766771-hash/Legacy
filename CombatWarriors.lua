@@ -1,3 +1,4 @@
+-- LEGACY
 local library = sharedRequire('../UILibrary.lua');
 local Services = sharedRequire('../utils/Services.lua');
 local Maid = sharedRequire('../utils/Maid.lua');
