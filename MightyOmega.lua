@@ -1,3 +1,4 @@
+-- LEGACY
 local Maid = sharedRequire('../utils/Maid.lua');
 local library = sharedRequire('../UILibrary.lua');
 local ToastNotif = sharedRequire('../classes/ToastNotif.lua');
