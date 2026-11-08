@@ -1,3 +1,4 @@
+-- LEGACY
 local library = sharedRequire('../UILibrary.lua');
 
 local AudioPlayer = sharedRequire('@utils/AudioPlayer.lua');
